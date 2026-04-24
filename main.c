@@ -5,6 +5,7 @@ int main(){
 
     printf("Gustavo Araujo Ramos da Silva");
 
+    printf("David Gabriel Silva de Souza");
 
 
     return 0;
